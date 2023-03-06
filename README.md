@@ -9,3 +9,5 @@ A fun and short quiz based on the show Gossip Girl. The player has 75 seconds to
 ## Installation
 
 No installation needed, simply click on the deployed link!
+
+https://byaylin.github.io/gossip-girl-quiz/ 
